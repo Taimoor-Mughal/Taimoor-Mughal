@@ -42,6 +42,12 @@ My work revolves around **making AI usable inside real products**, not just runn
 
 ## 🚀 Highlighted Projects
 
+### **🔹Humanoid**
+- Unitree G1 with ROS2 and VLLM
+- All without internet
+- works as visitor checkin robot for any access control system
+
+
 ### **🔹 Unifier (Enterprise AI Integration Product)**
 - Lead AI/DS engineer  
 - Integrated OCR, LLMs, NER, computer vision  
@@ -62,11 +68,6 @@ My work revolves around **making AI usable inside real products**, not just runn
 - Data cleaning automation  
 - Power BI dashboards  
 
-
-### **🔹Humanoid**
-- Unitree G1 with ROS2 and LLM
-- All without internet
-- works as visitor checkin robot for any access control system
 
 ---
 
