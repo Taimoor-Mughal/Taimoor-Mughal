@@ -62,6 +62,12 @@ My work revolves around **making AI usable inside real products**, not just runn
 - Data cleaning automation  
 - Power BI dashboards  
 
+
+### **🔹Humanoid**
+- Unitree G1 with ROS2 and LLM
+- All without internet
+- works as visitor checkin robot for any access control system
+
 ---
 
 ## 📌 What I’m Learning Now
