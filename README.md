@@ -41,33 +41,33 @@ I'm focused on **making AI usable inside real products** — not just running ex
 ---
 
 ## 🚀 Highlighted Projects
+*Note: These are enterprise/client projects — code is proprietary and owned by the respective companies, so repos aren't public. Descriptions reflect my role and contributions.*
 
-### **🔹Humanoid**
-- Unitree G1 with ROS2 and VLLM
-- All without internet
-- works as visitor checkin robot for any access control system
+### 🔹 Humanoid
+- Unitree G1 with ROS2 and VLLM — fully offline, no internet dependency
+- Deployed as a visitor check-in robot for access-control systems
+- Role: designed, coded, and deployed end-to-end
 
+### 🔹 Unifier (Enterprise AI Integration Product)
+- Lead AI/DS engineer
+- Integrated OCR, LLMs, NER, and computer vision into a single product
+- Built automation flows and service APIs
+- Ongoing R&D oversight for emerging AI capabilities
 
-### **🔹 Unifier (Enterprise AI Integration Product)**
-- Lead AI/DS engineer  
-- Integrated OCR, LLMs, NER, computer vision  
-- Built automation flows + service APIs  
-- Research & development oversight
+### 🔹 Tailgating Detection System
+- YOLO-based object detection with ByteTrack for tracking accuracy
+- Integrated into live access-control deployments
+- Role: designed and deployed detection pipeline
 
-### **🔹 Tailgating Detection System**
-- YOLO-based object detection  
-- ByteTrack tracking for accuracy  
-- Integrated into access control systems  
+### 🔹 CGICE (Conversational AI Engine)
+- LLM workflow integration with custom prompt engineering and logic flow design
+- Built for [use case — e.g. client support / internal ops, if shareable]
+- Role: designed and built the conversational engine
 
-### **🔹 CGICE (Conversational AI Engine)**
-- LLM workflow integration  
-- Prompt engineering + logic flow design  
-
-### **🔹 Retail & E-commerce Data Analytics**
-- Demand prediction models  
-- Data cleaning automation  
-- Power BI dashboards  
-
+### 🔹 Retail & E-commerce Data Analytics
+- Demand prediction models to support inventory/business planning
+- Automated data cleaning pipelines
+- Power BI dashboards for stakeholder reporting
 
 ---
 
