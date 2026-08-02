@@ -1,9 +1,12 @@
-# 👋 Hi, I'm Taimoor — AI Integration Engineer | Applied Machine Learning | Systems Automation
+# 👋 Hi, I'm Taimoor — Principal AI Engineer | LLM & Agentic AI Specialist | Data Analytics
 
-I work at the intersection of **AI engineering, backend integration, and IT systems**.  
-My background blends 5 years of IT, DevOps, Automation with high end Integration logics, and 5 more years of data analytics, and AI engineering , moreover my post graduation in AI and ML from UT Austin has given me a practical, product-focused approach to building and integrating intelligent systems.
+I'm an Applied AI Engineer with **12 years of experience** across LLM engineering, AI agent and automation workflows, OCR/NER pipelines, and enterprise system integration.
 
-My work revolves around **making AI usable inside real products**, not just running experiments.
+Currently a Principal Engineer at SoloInsight, building and deploying production LLM applications and leading R&D on emerging agentic AI capabilities — reporting directly to the Chief of AI and regularly leading deployment engagements with Fortune 100 client stakeholders.
+
+My work combines hands-on engineering (Python, VLLM, GPT APIs, on-prem and quantized model deployment, Azure/AWS) with an enterprise automation and IT systems background — giving me a full-stack view from model integration through production infrastructure to client delivery.
+
+I'm focused on **making AI usable inside real products** — not just running experiments.
 
 ---
 
@@ -73,7 +76,8 @@ My work revolves around **making AI usable inside real products**, not just runn
 
 ## 📌 What I’m Learning Now
 - Cloud-native AI (Bedrock, Vertex and Azure AI tools)  
-- Quantum Computing
+- Quantum Computing for AI/ML applications
+
 ---
 
 ## 📫 Connect With Me
