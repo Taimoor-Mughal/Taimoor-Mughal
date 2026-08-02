@@ -12,34 +12,31 @@ I'm focused on **making AI usable inside real products** — not just running ex
 
 ## 🔍 What I Do
 
-### **AI & ML Integration**
-- LLM integration (OpenAI APIs, proprietary conversational engines with offline models for data security)  
-- Building conversational flows, automation agents.  
-- OCR pipelines using Tesseract/PaddleOCR and more such OCR techniques.
-- NER for structured data extraction.  
-- Computer vision projects (YOLO + ByteTrack)  
-- ML model deployment for various products and use cases. 
+### AI & ML Integration
+- LLM integration (OpenAI APIs, VLLM, on-prem/quantized model deployment for data security)
+- Building conversational flows and automation agents
+- OCR pipelines (Tesseract, PaddleOCR)
+- NER for structured data extraction
+- Computer vision projects (YOLO + ByteTrack)
+- ML model deployment across production use cases
 
-### **Backend & Automation**
-- Python scripting for core data science leading to AI model development as well as automation.  
-- FastAPI / Flask microservices for AI modules  
-- REST API integration, webhooks.  
-- Bash scripting for system tasks.
-- Moderate DevOps handson (Docker, basic AWS GCP and AZURE usage with AI on Cloud use cases backed by certifications)  
+### Backend & Automation
+- Python for data science workflows, AI model development, and automation
+- FastAPI / Flask microservices for AI modules
+- REST API integration, webhooks
+- Bash scripting for system tasks
+- Practical DevOps experience (Docker, AWS/GCP/Azure — backed by AI on Cloud certification)
 
-### **Data Work**
-- Power BI & Tableau dashboards. 
-- Data cleaning, preprocessing, feature extraction.  
-- Predictive analysis for business problems. 
-- Collaborating with data engineering teams. 
-
-
+### Data Work
+- Power BI & Tableau dashboards
+- Data cleaning, preprocessing, feature extraction
+- Predictive analysis for business problems
+- Collaborating with data engineering teams
 
 ## 🛠️ Tech Stack
-
-**Languages:** Python, Bash, C++.  
-**Data:** Power BI, Tableau, Pandas.  
-**AI/ML:** YOLO, ByteTrack, NER models, OCR (Tesseract, PaddleOCR), OpenAI APIs and more.  
+**Languages:** Python, Bash, C++
+**Data:** Power BI, Tableau, Pandas
+**AI/ML:** VLLM, GPT APIs, YOLO, ByteTrack, NER models, OCR (Tesseract, PaddleOCR)
 
 ---
 
