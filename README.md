@@ -73,7 +73,7 @@ My work revolves around **making AI usable inside real products**, not just runn
 
 ## 📌 What I’m Learning Now
 - Cloud-native AI (Bedrock, Vertex and Azure AI tools)  
-
+- Quantum Computing
 ---
 
 ## 📫 Connect With Me
